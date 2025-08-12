@@ -1,41 +1,41 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Your Partner for Growth and Success",
+    "paragraph": "Headquartered in South Africa, Urban Proxy is a trusted Level 1 BBBEE-certified supplier, delivering tailored solutions and diverse office essentials. Our mission is to drive growth, foster inclusivity, and provide the tools businesses need to excel in today’s competitive landscape."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Founded in 2019 by Ntsako Nkuna and Tebello Marabe, Urban Proxy is a trailblazing entity in South Africa's business landscape As a BBBEE Level 1 Certified organization, we are committed to diversity, inclusivity, and excellence. At Urban Proxy (Pty) Ltd, we're more than just a business; we're agents of change. Empowering individuals, uplifting communities, and driving economic growth are at the heart of our mission.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Established Expertise",
+      "Trailblazing Presence",
+      "BBBEE Level 1 Certified",
+      "Mission-Driven Approach"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Empowering People",
+      "Community Upliftment",
+      "Driving Economic Growth",
+      "Excellence at the Core"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Housing Development Agency",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Robben Island Museum",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Castle of Good Hope",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Agricultural Research Council",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
@@ -67,34 +67,34 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-briefcase",
+      "name": "Office supplies",
+      "text": "A comprehensive range of office supplies, from essential stationery items like pens, paper, andorganizers"
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-desktop",
+      "name": "ICT equipment",
+      "text": "Such as computers, printers, and networking devices, to ensure a fully equipped workspace."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cog",
+      "name": "Auxillary office equipment",
+      "text": "This includes ergonomic furniture,storage solutions and presentation tools to enhance productivity and comfort."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-laptop",
+      "name": "ICT Devision",
+      "text": "Seamlessly procuring hardware and software, to installation, commissioning, and ongoing support, we cover all IT needs. Whether it's setting up networks or supplying essential IT commodities."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-globe",
+      "name": "Hardware Supply",
+      "text": "END-USER COMPONENTS: DESKTOP, CELLPHONE,TABLETS, CAMERAS, SHARED SYSTEMS: PRINTERS, FAX, SCANNERS, PABX, COMPUTER PERIPHERAL: PROJECTORS, HEADPHONES, COMPUTER, MOUSE, SCREENS, CAMERAS, ETC, LAN CABLING: DATA AND VOICE CABLING (VOIP),LAN INSTALLATION &, UPGRADE, CAT5/4 CABLING, PATCH PANELS,CABINET, SWITCHES, PABX, CONNECTIONS, AND ROUTERS, STORAGE DEVICES:, WIRELESS: WIFI HOTSPOT, CELLULAR APN, PROJECTORS, HEAD PHONES."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-paint-brush",
+      "name": "Software Supply",
+      "text": "Software licensing and Renewals, Web Development, CRM SYSTEMS, MS OFFICE 365, Order Management, Telephone Management System, Printer Management System, Mobile Application Systems, Mobile Security Systems."
     }
   ],
   "Testimonials": [
@@ -131,54 +131,46 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "img/team/adb.jpg",
+      "name": "Adobe",
+      "job": "Software Supply"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "img/team/gns.png",
+      "name": "Geneious",
+      "job": "Software Supply"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "img": "img/team/mcs365.jpg",
+      "name": "Microsoft 365",
+      "job": "Software Supply"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Pending",
+      "job": "To be updated"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "Your house somewhere in midrand i think ",
+    "phone": "+27 65 941 9009",
+    "email": "urbanproxysa@gmail.com"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-eye",
+      "title": "Vision",
+      "text": "To be the foremost catalyst for positive change, innovation, and empowerment, driving sustainable growth and prosperity in South Africa and beyond. We aspire to inspire, transform, and leave a lasting legacy that transcends industries, enriches lives, and shapes a brighter future for generations to come."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-rocket",
+      "title": "Mission",
+      "text": "At Urban Proxy our mission is to empower individuals, businesses, and communities through innovative solutions that drive growth, foster inclusivity, and create lasting impact. By harnessing the collective talents of our team and leveraging cutting-edge technology, we strive to redefine possibilities, inspire excellence, and shape a more equitable and prosperous world."
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-cogs",
+      "title": "Values",
+      "text": "Excellence, Integrity, Adaptability, Empowerment"
     }
   ]
 }

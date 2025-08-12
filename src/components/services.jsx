@@ -7,8 +7,7 @@ export const Services = (props) => {
         <div className="section-title">
           <h2>Our Services</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Urban Proxy, headquartered in South Africa, stands as a premier supplier catering to diverse office needs.
           </p>
         </div>
         <div className="row">

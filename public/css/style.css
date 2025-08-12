@@ -443,16 +443,29 @@ header .intro-text {
 #team {
   padding: 100px 0;
 }
+
 #team h4 {
   margin: 5px 0;
 }
+
 #team .team-img {
   width: 240px;
+  height: 240px; /* Fixed height for consistency */
+  overflow: hidden;
 }
+
+#team .team-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ensures image fills the space without distortion */
+  display: block;
+}
+
 #team .thumbnail {
   background: transparent;
   border: 0;
 }
+
 #team .thumbnail .caption {
   padding: 10px 0 0;
   color: #888;
