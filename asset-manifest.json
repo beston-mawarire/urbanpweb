@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/urbanpweb/static/css/main.ae42ac5f.css",
+    "main.js": "/urbanpweb/static/js/main.6fea9378.js",
+    "index.html": "/urbanpweb/index.html",
+    "main.ae42ac5f.css.map": "/urbanpweb/static/css/main.ae42ac5f.css.map",
+    "main.6fea9378.js.map": "/urbanpweb/static/js/main.6fea9378.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.6fea9378.js"
+  ]
+}
